@@ -26,8 +26,14 @@ Similarly, tests were done for each lot, individually.<br>
 ![image](https://user-images.githubusercontent.com/13009587/147156542-dcf365aa-23ea-44f7-8c6e-4f6dfb8f9b95.png)
 
 <br>
-Lot one had a p-value of 1, which is much higher than the significance level of .05%, therefore we don't have sufficient evidence to reject the null hypothesis, meaning that the two means are statistically similar.<br>
-![image](https://user-images.githubusercontent.com/13009587/147156612-f67c6f46-124a-4e35-b7c9-13cfc648c86a.png)
+Lot one had a p-value of 1, which is much higher than the significance level of .05%, therefore we don't have sufficient evidence to reject the null hypothesis, meaning that the two means are statistically similar.
+
+<br>
+
+
+![image](https://user-images.githubusercontent.com/13009587/147159623-9ab25336-392b-454f-b345-438e9ecafbb4.png)
+
+
 Similarly, as lot two had a p-value of 0.6072, which is higher than the significance level of .05%. Because of this, we can't reject the null hypothesis, meaning that the two means are also statistically similar.<br>
 ![image](https://user-images.githubusercontent.com/13009587/147156636-2873cfc6-d68b-425e-8760-f95dff4be887.png) Lot three, on the other hand, has a p-value that is less than .05%, which means we have sufficient evidence to eject the null hypothesis and state that the two means are statistically different.
 
